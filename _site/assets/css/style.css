@@ -183,6 +183,6 @@ footer { width: 200px; float: left; position: fixed; bottom: 30px; -webkit-font-
 
 .bibref { font-size: 70%; margin-top: 10px; margin-left: 0px; display: none; font-family: monospace; }
 
-#headcolor { width: 100%; height: 1.5em; margin: 0; padding: 0; background: #036; /* background: rgb(0,36,62); */ text-align: left; color: #fff; position: fixed; z-index: 999; }
+#headcolor { width: 120%; height: 1.5em; margin: 0 0 0 -20px; padding: 0 0 0 0; background: #036; text-align: left; color: #fff; position: fixed; top: 0; z-index: 999; }
 
-#colorheadspacer { font: bold 14px "Times New Roman", Times, serif; margin-left: 5px; margin-right: 2em; display: block; float: right; width: 6.5em; height: 1px; letter-spacing: 1px; color: #036; border: 1px solid #036; }
+#colorheadspacer { font: bold 14px "Times New Roman", Times, serif; margin-left: 0px; margin-right: 0px; display: block; float: right; width: 8.5em; height: 1px; letter-spacing: 1px; color: #036; border: 1px solid #036; }
