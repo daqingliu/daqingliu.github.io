@@ -1,0 +1,49 @@
+# Basic Information 
+title: Daqing Liu
+titlecn: 刘大庆
+position: Research Scientist
+affiliation: JD Explore Academy
+email: liudq.ustc (at) gmail.com
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Daqing Liu, 刘大庆, JDEA, USTC, multi-modality learning, vision and langauge, representaion, alignment, geeration, decision-making
+description: This is the academic homepage of Dr. Daqing Liu.
+canonical: https://daqingliu.github.io/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?hl=en&user=TbBfOVEAAAAJ
+cv_link: assets/files/CV_DaqingLiu.pdf
+github_link: https://github.com/daqingliu
+twitter: https://twitter.com/liudq_ustc
+dblp: https://dblp.org/pid/225/5519
+orcid: https://orcid.org/0000-0002-8286-0105
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/avatar.jpg
+favicon: ./assets/img/favicon.ico
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: false
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+google_analytics: UA-111540567-4
+
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+remote_theme: yaoyao-liu/minimal-light
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
