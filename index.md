@@ -8,33 +8,37 @@ Currently, I am a research scientist at JD Explore Academy (JDEA), JD.com Inc, l
 
 ## 🔬 Research Interests
 
-My research interests are focused on **Multi-Modality Learning (MML)** and its practical applications, with the ultimate goal of developing an artifical general intelligence (AGI) that can represent and comprehend information from various modalities and then make informed decisions based on that information. Specifically, I am interested in the following areas:
+<p  style="margin: 0 0 5px 0">My research interests are focused on <b>Multi-Modality Learning (MML)</b> and its practical applications, with the ultimate goal of developing an artifical general intelligence (AGI) that can represent and comprehend information from various modalities and then make informed decisions based on that information.</p>
+<p style="margin: 0 0 2px 0"> Specifically, I am interested in the following areas:</p>
+<ul>
+  <li><b>Multi-Modality Representation</b>
+    <ul style="margin: 0 0 5px 0">
+      <li>Image self-supervised learning (<a href="https://arxiv.org/abs/2206.10207" target="_blank">SemMAE[NeurIPS'22]</a>)</li>
+      <li>Video representation learning (<a href="#">VSP[CVPR'23]</a>)</li>
+    </ul>
+  </li>
+  <li><b>Multi-Modality Alignment</b>
+    <ul style="margin: 0 0 5px 0">
+      <li>Visual grounding (<a href="https://arxiv.org/abs/1812.03299" target="_blank">NMTree[ICCV'19]</a>, <a href="https://arxiv.org/abs/1906.01784" target="_blank">RvG-Tree[TPAMI'21]</a>, <a href="https://arxiv.org/abs/2206.06619" target="_blank">TransVG++[arXiv'22]</a>)</li>
+      <li>Cross-modal retrieval (<a href="#">CMI[arXiv'23]</a>)</li>
+    </ul>
+  </li>
+  <li><b>Multi-Modality Generation</b>
+    <ul style="margin: 0 0 5px 0">
+      <li>Visual captioning (<a href="https://arxiv.org/abs/1906.02365" target="_blank">CAVP[MM'18, TPAMI'21]</a>, <a href="https://arxiv.org/abs/2004.00390" target="_blank">POS-SCAN[CVPR'20]</a>, <a href="https://arxiv.org/abs/2007.09049" target="_blank">RMN[IJCAI'20]</a>, <a href="https://arxiv.org/abs/2201.01984" target="_blank">CBT[arXiv'22]</a>, <a href="#">Prefix-Captioning[arXiv'23]</a>)</li>
+      <li>Image generation (<a href="https://arxiv.org/abs/2206.00923" target="_blank">TwFA[CVPR'22]</a>, <a href="#">MMoT[arXiv'23]</a>)</li>
+    </ul>
+  </li>
+  <li><b>Multi-Modality Decision-Making</b>
+    <ul style="margin: 0 0 5px 0">
+      <li>Visual question answering (<a href="https://arxiv.org/abs/2211.11190" target="_blank">CMCL[arXiv'22]</a>)</li>
+      <li>Vision-language navigation (<a href="https://arxiv.org/abs/2303.01032" target="_blank">ESceme[arXiv'23]</a>)</li>
+    </ul>
+  </li>
+</ul>
 
-- **Multi-Modality Representation** 
-    - Image self-supervised learning ([SemMAE[NeurIPS'22]](https://arxiv.org/abs/2206.10207){:target="_blank"}) 
-    - Video representation learning ([VSP[CVPR'23]]())
-
-- **Multi-Modality Alignment**
-    - Visual grounding ([NMTree[ICCV'19]](https://arxiv.org/abs/1812.03299){:target="_blank"}, [RvG-Tree[TPAMI'21]](https://arxiv.org/abs/1906.01784){:target="_blank"}, [TransVG++[arXiv'22]](https://arxiv.org/abs/2206.06619){:target="_blank"})
-    - Cross-modal retrieval ([CMI[arXiv'23]]())
-
-- **Multi-Modality Geneartion**
-    - Visual captioning ([CAVP[MM'18, TPAMI'21]](https://arxiv.org/abs/1906.02365){:target="_blank"}, [POS-SCAN[CVPR'20]](https://arxiv.org/abs/2004.00390){:target="_blank"}, [RMN[IJCAI'20]](https://arxiv.org/abs/2007.09049){:target="_blank"}, [CBT[arXiv'22]](https://arxiv.org/abs/2201.01984){:target="_blank"}, [Prefix-Captioning[arXiv'23]]())
-    - Image Generation ([TwFA[CVPR'22]](https://arxiv.org/abs/2206.00923){:target="_blank"}, [MMoT[arXiv'23]]())
-
-- **Multi-Modality Decision-Making**
-    - Visual question answering ([CMCL[arXiv'22]](https://arxiv.org/abs/2211.11190){:target="_blank"})
-    - Vision-language navigation ([ESceme[arXiv'23]](https://arxiv.org/abs/2303.01032){:target="_blank"}).
 
 ## 🔥 News
-
-<!-- - **[Feb. 2023]** One paper is accepted by CVPR 2023, about video representation learning.
-- **[Sep. 2022]** One paper is accepted by NeurIPS 2022, about image self-supervised learning.
-- **[Jun. 2022]** One paper is accepted by ACM MM 2022, about image deblurring.
-- **[Mar. 2022]** One paper is accepted by CVPR 2023, about image generation.
-<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
-<div id="newsmore" style="display:none">
-- **[Mar. 2022]** One paper is accepted by CVPR 2023, about image generation. -->
 
 <ul>
   <li><strong>[2023-02-28]</strong> One paper about video representation learning is accepted to <a href="https://cvpr2023.thecvf.com/" target="_blank">CVPR 2023</a>.</li>
