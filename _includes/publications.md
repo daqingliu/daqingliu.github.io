@@ -11,7 +11,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
 <!-- d ----------------------- -->
 <h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> arXiv </h3>
 
-<!-- d ----------------------- -->
+<!-- d ----------------------- 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
@@ -25,8 +25,9 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
   </div>
 </div>
 </li>
+-->
 
-<!-- d  ----------------------- -->
+<!-- d  ----------------------- 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
@@ -40,8 +41,9 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
   </div>
 </div>
 </li>
+-->
 
-<!-- d ----------------------- -->
+<!-- d ----------------------- 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
@@ -55,6 +57,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
   </div>
 </div>
 </li>
+-->
 
 <!-- d ----------------------- -->
 <li>
@@ -311,7 +314,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
 <!-- d ----------------------- -->
 <h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> 2019 </h3>
 
-<!-- d ----------------------- -->
+<!-- d ----------------------- 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
@@ -326,6 +329,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
   </div>
 </div>
 </li>
+-->
 
 <!-- d ----------------------- -->
 <li>
