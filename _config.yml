@@ -14,7 +14,7 @@ canonical: https://daqingliu.github.io/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?hl=en&user=TbBfOVEAAAAJ
-cv_link: assets/files/CV_DaqingLiu.pdf
+cv_link: assets/files/CV_DaqingLiu_2303.pdf
 github_link: https://github.com/daqingliu
 twitter: https://twitter.com/liudq_ustc
 dblp: https://dblp.org/pid/225/5519
@@ -27,7 +27,7 @@ favicon: ./assets/img/favicon.ico
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
+enable_footnote: true
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics

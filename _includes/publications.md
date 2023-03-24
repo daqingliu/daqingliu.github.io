@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">📝 Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
 
@@ -171,11 +171,11 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">CVPR</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Modeling Video as Stochastic Processes for Fine-Grained Video Representation Learning</a></div>
-    <div class="author">Heng Zhang<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu</b>, Qi Zheng, Bing Su</div>
+    <div class="author">Heng Zhang<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu<span class="superscript">*</span></b>, Qi Zheng, Bing Su</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Coming Soon</a>
-      <i>&nbsp;&nbsp;Full, Accpet Rate: 25.78%</i>
+      <strong><i style="color:#e74d3c">&nbsp;&nbsp;Highlight, Accept Rate: 2.5%</i></strong>
     </div>
   </div>
 </div>

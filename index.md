@@ -2,11 +2,11 @@
 layout: homepage
 ---
 
-## 👋 About Me
+## About Me
 
 Currently, I am a research scientist at JD Explore Academy (JDEA), JD.com Inc, leaded by Prof. <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en" target="_blank">Dacheng Tao</a>. Before that, I received my Ph.D. degree in Control Science and Engineering from the University of Science and Technology of China (USTC) in 2021, advised by <a href="https://dblp.org/pers/hd/z/Zha:Zheng=Jun" target="_blank">Prof. Zheng-Jun Zha</a>. From May 2018 to May 2019, I was a visiting student at Nanyang Technological University (NTU), working with <a href="http://www.ntu.edu.sg/home/hanwangzhang/" target="_blank">Asst. Prof. Hanwang Zhang</a>.
 
-## 🔬 Research Interests
+## Research Interests
 
 <p  style="margin: 0 0 5px 0">My research interests are focused on <b>Multi-Modality Learning (MML)</b> and its practical applications, with the ultimate goal of developing an artifical general intelligence (AGI) that can represent and comprehend information from various modalities and then make informed decisions based on that information.</p>
 <p style="margin: 0 0 2px 0"> Specifically, I am interested in the following areas:</p>
@@ -38,9 +38,10 @@ Currently, I am a research scientist at JD Explore Academy (JDEA), JD.com Inc, l
 </ul>
 
 
-## 🔥 News
+## News
 
 <ul>
+  <li><strong>[2023-03-22]</strong> 🎉🎉 Our CVPR paper VSP is selected as highlight (top 2.5%)!</li>
   <li><strong>[2023-02-28]</strong> One paper about video representation learning is accepted to <a href="https://cvpr2023.thecvf.com/" target="_blank">CVPR 2023</a>.</li>
   <li><strong>[2022-09-15]</strong> One paper about image self-supervised learning is accepted to <a href="https://neurips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a>.</li>
   <li><strong>[2022-06-30]</strong> One paper about image deblurring is accepted to <a href="https://2022.acmmm.org/" target="_blank">ACM MM 2022</a>.</li>

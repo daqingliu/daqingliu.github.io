@@ -1,4 +1,4 @@
-## 🎓 Experience
+## Experience
 
 <h4 style="margin:0 10px 0;">Research Scientist (2021-08 -- Present)</h4>
 

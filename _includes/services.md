@@ -1,4 +1,4 @@
-## 💁‍♂️ Services
+## Services
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
@@ -23,7 +23,7 @@
   <li><a href="https://mc03.manuscriptcentral.com/mir" target="_blank"><autocolor>IEEE Transactions on Machine Intelligence Research (MIR)</autocolor></a></li> -->
 </ul>
 
-## 📡 Contact
+## Contact
 **Address**: [Block 2-A-13, JD Building, Beijing, China, 101111](https://goo.gl/maps/L8yR2Wv3D1DquqBS9){:target="_blank"}
 <br>
 **Phone**: (86) 188-5698-8126 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wechat**: liudaqing94
