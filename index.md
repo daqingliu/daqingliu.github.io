@@ -41,6 +41,8 @@ Currently, I am a research scientist at JD Explore Academy (JDEA), JD.com Inc, l
 ## News
 
 <ul>
+  <li><strong>[2023-06-01]</strong> Our AIGC project <a href="https://mhh0318.github.io/cocktail/" target="_blank">Cocktail🍸</a> is avaliable!</li>
+  <li><strong>[2023-05-10]</strong> Our AIGC project <a href="https://jabir-zheng.github.io/MMoT/" target="_blank">MMoT</a> is avaliable!</li>
   <li><strong>[2023-03-22]</strong> 🎉🎉 Our CVPR paper VSP is selected as highlight (top 2.5%)!</li>
   <li><strong>[2023-02-28]</strong> One paper about video representation learning is accepted to <a href="https://cvpr2023.thecvf.com/" target="_blank">CVPR 2023</a>.</li>
   <li><strong>[2022-09-15]</strong> One paper about image self-supervised learning is accepted to <a href="https://neurips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a>.</li>
