@@ -41,8 +41,9 @@ Currently, I am a research scientist at JD Explore Academy (JDEA), JD.com Inc, l
 ## News
 
 <ul>
-  <li><strong>[2023-06-01]</strong> 🎉🎉 Our AIGC project <a href="https://mhh0318.github.io/cocktail/" target="_blank">Cocktail🍸</a> is avaliable!</li>
-  <li><strong>[2023-05-10]</strong> 🎉🎉 Our AIGC project <a href="https://jabir-zheng.github.io/MMoT/" target="_blank">MMoT</a> is avaliable!</li>
+  <li><strong>[2023-06-12]</strong> One paper about image editing is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76" target="_blank">IEEE TCSVT</a>.</li>
+  <li><strong>[2023-06-01]</strong> 🔥🔥 Our AIGC project <a href="https://mhh0318.github.io/cocktail/" target="_blank">Cocktail🍸</a> is avaliable!</li>
+  <li><strong>[2023-05-10]</strong> 🔥🔥 Our AIGC project <a href="https://jabir-zheng.github.io/MMoT/" target="_blank">MMoT</a> is avaliable!</li>
   <li><strong>[2023-03-22]</strong> Our CVPR paper VSP is selected as highlight (top 2.5%)!</li>
   <li><strong>[2023-02-28]</strong> One paper about video representation learning is accepted to <a href="https://cvpr2023.thecvf.com/" target="_blank">CVPR 2023</a>.</li>
   <li><strong>[2022-09-15]</strong> One paper about image self-supervised learning is accepted to <a href="https://neurips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a>.</li>
@@ -55,10 +56,10 @@ Currently, I am a research scientist at JD Explore Academy (JDEA), JD.com Inc, l
   <li><strong>[2021-08-05]</strong> I joint JD.com Inc., as a <a href="https://campus.jd.com/web/static/forward?to=jd-project-dmt&t=3" target="_blank">Doctoral Management Trainee</a>.</li>
   <li><strong>[2021-05-22]</strong> 🎉🎉 I successfully defended my PhD thesis!</li>
   <li><strong>[2020-04-20]</strong> One paper about visual captioning is accepted to <a href="https://ijcai20.org/" target="_blank">IJCAI 2020</a>.</li>
-  <li><strong>[2020-02-27]</strong> One paper about <a href="">visual captioning</a> is accepted to <a href="http://cvpr2020.thecvf.com/">CVPR 2020</a>.</li>
-  <li><strong>[2019-07-23]</strong> One paper about <a href="">visual grounding</a> is accepted to <a href="http://iccv2019.thecvf.com/">ICCV 2019</a> as Oral.</li>
-  <li><strong>[2019-03-27]</strong> Two papers about <a href="">visual captioning</a> and visual grounding are accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>.</li>
-  <li><strong>[2018-07-02]</strong> One paper about <a href="">visual captioning</a> is accepted to <a href="https://dl.acm.org/doi/proceedings/10.1145/3240508">ACM MM 2018</a> as Oral.</li>
+  <li><strong>[2020-02-27]</strong> One paper about visual captioning is accepted to <a href="http://cvpr2020.thecvf.com/">CVPR 2020</a>.</li>
+  <li><strong>[2019-07-23]</strong> One paper about visual grounding is accepted to <a href="http://iccv2019.thecvf.com/">ICCV 2019</a> as Oral.</li>
+  <li><strong>[2019-03-27]</strong> Two papers about visual captioning and visual grounding are accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>.</li>
+  <li><strong>[2018-07-02]</strong> One paper about visual captioning is accepted to <a href="https://dl.acm.org/doi/proceedings/10.1145/3240508">ACM MM 2018</a> as Oral.</li>
   <li><strong>[2016-03-05]</strong> 🎉🎉 I start my research journey from USTC!</li>
 </div>
 
