@@ -152,24 +152,6 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-  <div class="title"><a href="https://arxiv.org/abs/2206.06619" target="_blank">TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer</a></div>
-  <div class="author">Jiajun Deng, Zhengyuan Yang, <b>Daqing Liu</b>, Tianlang Chen, Wengang Zhou, Yanyong Zhang, Houqiang Li, Wanli Ouyang</div>
-  <div class="periodical"><em>arXiv preprint, arXiv:2206.06619.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2206.06619" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="https://arxiv.org/pdf/2206.06619" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/djiajunustc/TransVG" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <i>&nbsp;&nbsp;Journal Extension of <a href="https://arxiv.org/abs/2104.08541" target="_blank">TransVG[ICCV'21]</a></i>
-    </div>
-  </div>
-</div>
-</li>
-
-<!-- d ----------------------- -->
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
   <div class="title"><a href="https://arxiv.org/abs/2201.01984" target="_blank">Compact Bidirectional Transformer for Image Captioning</a></div>
   <div class="author">Yuanen Zhou<span class="superscript">#</span>, Zhenzhen Hu, <b style="color:#a82e26">Daqing Liu</b>, Huixia Ben, Meng Wang</div>
   <div class="periodical"><em>arXiv preprint, arXiv:2201.01984</em></div>
@@ -188,6 +170,24 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
 <!-- d ----------------------- -->
 <li>
 <div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">TPAMI</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="title"><a href="https://arxiv.org/abs/2206.06619" target="_blank">TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer</a></div>
+  <div class="author">Jiajun Deng, Zhengyuan Yang, <b>Daqing Liu</b>, Tianlang Chen, Wengang Zhou, Yanyong Zhang, Houqiang Li, Wanli Ouyang</div>
+  <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2206.06619" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://arxiv.org/pdf/2206.06619" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/djiajunustc/TransVG" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <strong><i style="color:#e74d3c">&nbsp;&nbsp;Impact Factor: 24.314</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<!-- d ----------------------- -->
+<li>
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">TCSVT</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
   <div class="title"><a href="https://arxiv.org/abs/2302.02394" target="_blank">Eliminating Prior Bias for Semantic Image Editing via Dual-Cycle Diffusion</a></div>
@@ -196,6 +196,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
     <div class="links">
       <a href="https://arxiv.org/abs/2302.02394" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://arxiv.org/pdf/2302.02394" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/JohnDreamer/DualCycleDiffsion" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
