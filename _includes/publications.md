@@ -170,6 +170,23 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
 <!-- d ----------------------- -->
 <li>
 <div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">ICCV</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Exploring Temporal Concurrency for Video-Language Representation Learning</a></div>
+    <div class="author">Heng Zhang<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu</b>, Bing Su, Dacheng Tao</div>
+    <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Coming soon</a>
+      <!-- <a href="" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <strong><i style="color:#e74d3c">&nbsp;&nbsp;Highlight, Accept Rate: 2.5%</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<!-- d ----------------------- -->
+<li>
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">TPAMI</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
   <div class="title"><a href="https://arxiv.org/abs/2206.06619" target="_blank">TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer</a></div>

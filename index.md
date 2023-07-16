@@ -22,7 +22,7 @@ From May 2018 to May 2019, I was a visiting student at Nanyang Technological Uni
   <li><b>Multi-Modality Alignment</b>
     <ul style="margin: 0 0 5px 0">
       <li>Visual grounding (<a href="https://arxiv.org/abs/1812.03299" target="_blank">NMTree[ICCV'19]</a>, <a href="https://arxiv.org/abs/1906.01784" target="_blank">RvG-Tree[TPAMI'21]</a>, <a href="https://arxiv.org/abs/2206.06619" target="_blank">TransVG++[TPAMI'23]</a>)</li>
-      <li>Cross-modal retrieval (<a href="#">CMI[arXiv'23]</a>)</li>
+      <li>Cross-modal retrieval (<a href="#">TCP[ICCV'23]</a>, <a href="#">CMI[arXiv'23]</a>)</li>
     </ul>
   </li>
   <li><b>Multi-Modality Generation</b>
@@ -43,6 +43,7 @@ From May 2018 to May 2019, I was a visiting student at Nanyang Technological Uni
 ## News
 
 <ul>
+  <li><strong>[2023-07-14]</strong> 🌟🌟 One paper about cross-modal retrieval is accepted to <a href="https://iccv2023.thecvf.com/" target="_blank">ICCV 2023</a>!</li>
   <li><strong>[2023-07-06]</strong> 🌟🌟 One paper about visual grounding is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank">IEEE TPAMI</a>!</li>
   <li><strong>[2023-06-12]</strong> One paper about image editing is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76" target="_blank">IEEE TCSVT</a>.</li>
   <li><strong>[2023-06-01]</strong> 🔥🔥 Our AIGC project <a href="https://mhh0318.github.io/cocktail/" target="_blank">Cocktail🍸</a> is avaliable!</li>
