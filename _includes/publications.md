@@ -11,22 +11,6 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
 <!-- d ----------------------- -->
 <h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> arXiv </h3>
 
-<!-- d ----------------------- 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="" target="_blank">MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis</a></div>
-    <div class="author">Jianbin Zheng<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu</b>, Chaoyue Wang, Minghui Hu, Changxing Ding, Dacheng Tao</div>
-    <div class="periodical"><em>arXiv preprint, 2023.</em></div>
-    <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Coming Soon</a>
-    </div>
-  </div>
-</div>
-</li>
--->
-
 <!-- d  ----------------------- 
 <li>
 <div class="pub-row">
@@ -64,24 +48,6 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2303.01032" target="_blank">Cocktail🍸: Mixing Multi-Modality Controls for Text-Conditional Image Generation</a></div>
-    <div class="author">Minghui Hu<span class="superscript">#</span>, Jianbin Zheng<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu</b>, Chuanxia Zheng, Chaoyue Wang, Dacheng Tao, Tat-Jen Cham</div>
-    <div class="periodical"><em>arXiv preprint, arXiv:2306.00964.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2306.00964" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="https://arxiv.org/pdf/2306.00964" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://mhh0318.github.io/cocktail/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/mhh0318/Cocktail" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      </div>
-  </div>
-</div>
-</li>
-
-<!-- d ----------------------- -->
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2303.01032" target="_blank">MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis</a></div>
     <div class="author">Jianbin Zheng<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu<span class="superscript">*</span></b>, Chaoyue Wang, Minghui Hu, Zuopeng Yang, Changxing Ding, Dacheng Tao</div>
     <div class="periodical"><em>arXiv preprint, arXiv:2305.05992.</em></div>
@@ -90,6 +56,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
       <a href="https://arxiv.org/pdf/2305.05992" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://jabir-zheng.github.io/MMoT/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://github.com/jabir-zheng/MMoT-Transformer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <i>&nbsp;&nbsp;Journal Version</i>
       </div>
   </div>
 </div>
@@ -107,6 +74,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
       <a href="https://arxiv.org/abs/2303.01032" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://arxiv.org/pdf/2303.01032" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/qizhust/esceme" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <i>&nbsp;&nbsp;Journal Version</i>
     </div>
   </div>
 </div>
@@ -148,7 +116,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
 </li>
 
 <!-- d ----------------------- -->
-<li>
+<!-- <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -162,10 +130,28 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
     </div>
   </div>
 </div>
-</li>
+</li> -->
 
 <!-- d ----------------------- -->
 <h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> 2023 </h3>
+
+<!-- d ----------------------- -->
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">NeurIPS</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2303.01032" target="_blank">Cocktail🍸: Mixing Multi-Modality Controls for Text-Conditional Image Generation</a></div>
+    <div class="author">Minghui Hu<span class="superscript">#</span>, Jianbin Zheng<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu</b>, Chuanxia Zheng, Chaoyue Wang, Dacheng Tao, Tat-Jen Cham</div>
+  <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2306.00964" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://arxiv.org/pdf/2306.00964" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://mhh0318.github.io/cocktail/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/mhh0318/Cocktail" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      </div>
+  </div>
+</div>
+</li>
 
 <!-- d ----------------------- -->
 <li>

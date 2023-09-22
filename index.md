@@ -28,7 +28,7 @@ From May 2018 to May 2019, I was a visiting student at Nanyang Technological Uni
   <li><b>Multi-Modality Generation</b>
     <ul style="margin: 0 0 5px 0">
       <li>Visual captioning (<a href="https://arxiv.org/abs/1906.02365" target="_blank">CAVP[MM'18, TPAMI'21]</a>, <a href="https://arxiv.org/abs/2004.00390" target="_blank">POS-SCAN[CVPR'20]</a>, <a href="https://arxiv.org/abs/2007.09049" target="_blank">RMN[IJCAI'20]</a>, <a href="https://arxiv.org/abs/2201.01984" target="_blank">CBT[arXiv'22]</a>, <a href="#">Prefix-Captioning[arXiv'23]</a>)</li>
-      <li>Image generation (<a href="https://arxiv.org/abs/2206.00923" target="_blank">TwFA[CVPR'22]</a>, <a href="https://arxiv.org/abs/2302.02394">DualCycleDiffsion[TCSVT'23]</a>, <a href="https://jabir-zheng.github.io/MMoT/">MMoT[arXiv'23]</a>), <a href="https://mhh0318.github.io/cocktail/">Cocktail🍸[arXiv'23]</a>)</li>
+      <li>Image generation (<a href="https://arxiv.org/abs/2206.00923" target="_blank">TwFA[CVPR'22]</a>, <a href="https://arxiv.org/abs/2302.02394">DualCycleDiffsion[TCSVT'23]</a>, <a href="https://jabir-zheng.github.io/MMoT/">MMoT[arXiv'23]</a>), <a href="https://mhh0318.github.io/cocktail/">Cocktail🍸[NeurIPS'23]</a>)</li>
     </ul>
   </li>
   <li><b>Multi-Modality Decision-Making</b>
@@ -43,6 +43,7 @@ From May 2018 to May 2019, I was a visiting student at Nanyang Technological Uni
 ## News
 
 <ul>
+  <li><strong>[2023-09-22]</strong> 🌟🌟 Our paper <a href="https://mhh0318.github.io/cocktail/" target="_blank">Cocktail🍸</a> is accepted to <a href="https://nips.cc/" target="_blank">NeurIPS 2023</a>!</li>
   <li><strong>[2023-07-14]</strong> 🌟🌟 One paper about cross-modal retrieval is accepted to <a href="https://iccv2023.thecvf.com/" target="_blank">ICCV 2023</a>!</li>
   <li><strong>[2023-07-06]</strong> 🌟🌟 One paper about visual grounding is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank">IEEE TPAMI</a>!</li>
   <li><strong>[2023-06-12]</strong> One paper about image editing is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76" target="_blank">IEEE TCSVT</a>.</li>
