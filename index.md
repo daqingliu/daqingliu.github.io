@@ -16,19 +16,19 @@ From May 2018 to May 2019, I was a visiting student at Nanyang Technological Uni
   <li><b>Multi-Modality Representation</b>
     <ul style="margin: 0 0 5px 0">
       <li>Image self-supervised learning (<a href="https://arxiv.org/abs/2206.10207" target="_blank">SemMAE[NeurIPS'22]</a>)</li>
-      <li>Video representation learning (<a href="#">VSP[CVPR'23]</a>)</li>
+      <li>Video representation learning (<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Modeling_Video_As_Stochastic_Processes_for_Fine-Grained_Video_Representation_Learning_CVPR_2023_paper.pdf">VSP[CVPR'23]</a>)</li>
     </ul>
   </li>
   <li><b>Multi-Modality Alignment</b>
     <ul style="margin: 0 0 5px 0">
       <li>Visual grounding (<a href="https://arxiv.org/abs/1812.03299" target="_blank">NMTree[ICCV'19]</a>, <a href="https://arxiv.org/abs/1906.01784" target="_blank">RvG-Tree[TPAMI'21]</a>, <a href="https://arxiv.org/abs/2206.06619" target="_blank">TransVG++[TPAMI'23]</a>)</li>
-      <li>Cross-modal retrieval (<a href="#">TCP[ICCV'23]</a>, <a href="#">CMI[arXiv'23]</a>)</li>
+      <li>Cross-modal retrieval (<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Exploring_Temporal_Concurrency_for_Video-Language_Representation_Learning_ICCV_2023_paper.html">TCP[ICCV'23]</a>, <a href="https://arxiv.org/abs/2309.09531">SSN[AAAI'24]</a>, <a href="#">CMI[arXiv'23]</a>)</li>
     </ul>
   </li>
   <li><b>Multi-Modality Generation</b>
     <ul style="margin: 0 0 5px 0">
       <li>Visual captioning (<a href="https://arxiv.org/abs/1906.02365" target="_blank">CAVP[MM'18, TPAMI'21]</a>, <a href="https://arxiv.org/abs/2004.00390" target="_blank">POS-SCAN[CVPR'20]</a>, <a href="https://arxiv.org/abs/2007.09049" target="_blank">RMN[IJCAI'20]</a>, <a href="https://arxiv.org/abs/2201.01984" target="_blank">CBT[arXiv'22]</a>, <a href="#">Prefix-Captioning[arXiv'23]</a>)</li>
-      <li>Image generation (<a href="https://arxiv.org/abs/2206.00923" target="_blank">TwFA[CVPR'22]</a>, <a href="https://arxiv.org/abs/2302.02394">DualCycleDiffsion[TCSVT'23]</a>, <a href="https://jabir-zheng.github.io/MMoT/">MMoT[arXiv'23]</a>), <a href="https://mhh0318.github.io/cocktail/">Cocktail🍸[NeurIPS'23]</a>)</li>
+      <li>Image generation (<a href="https://arxiv.org/abs/2206.00923" target="_blank">TwFA[CVPR'22]</a>, <a href="https://arxiv.org/abs/2302.02394">DualCycleDiffsion[TCSVT'23]</a>, <a href="https://jabir-zheng.github.io/MMoT/">MMoT[IJCV'24]</a>), <a href="https://mhh0318.github.io/cocktail/">Cocktail🍸[NeurIPS'23]</a>)</li>
     </ul>
   </li>
   <li><b>Multi-Modality Decision-Making</b>
@@ -43,20 +43,21 @@ From May 2018 to May 2019, I was a visiting student at Nanyang Technological Uni
 ## News
 
 <ul>
-  <li><strong>[2023-09-22]</strong> 🌟🌟 Our paper <a href="https://mhh0318.github.io/cocktail/" target="_blank">Cocktail🍸</a> is accepted to <a href="https://nips.cc/" target="_blank">NeurIPS 2023</a>!</li>
-  <li><strong>[2023-07-14]</strong> 🌟🌟 One paper about cross-modal retrieval is accepted to <a href="https://iccv2023.thecvf.com/" target="_blank">ICCV 2023</a>!</li>
+  <li><strong>[2023-09-22]</strong> 🌟🌟 Our paper <a href="https://jabir-zheng.github.io/MMoT/" target="_blank">MMoT</a> is accepted to <a href="https://link.springer.com/journal/11263" target="_blank">IJCV</a>!</li>
+  <li><strong>[2023-09-22]</strong> One paper about multimodal retrieval is accepted to <a href="https://aaai.org/aaai-conference/" target="_blank">AAAI 2024</a>.</li>
+  <li><strong>[2023-09-22]</strong> Our paper <a href="https://mhh0318.github.io/cocktail/" target="_blank">Cocktail🍸</a> is accepted to <a href="https://nips.cc/" target="_blank">NeurIPS 2023</a>.</li>
+  <li><strong>[2023-07-14]</strong> One paper about cross-modal retrieval is accepted to <a href="https://iccv2023.thecvf.com/" target="_blank">ICCV 2023</a>.</li>
   <li><strong>[2023-07-06]</strong> 🌟🌟 One paper about visual grounding is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank">IEEE TPAMI</a>!</li>
   <li><strong>[2023-06-12]</strong> One paper about image editing is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76" target="_blank">IEEE TCSVT</a>.</li>
   <li><strong>[2023-06-01]</strong> 🔥🔥 Our AIGC project <a href="https://mhh0318.github.io/cocktail/" target="_blank">Cocktail🍸</a> is avaliable!</li>
   <li><strong>[2023-05-10]</strong> 🔥🔥 Our AIGC project <a href="https://jabir-zheng.github.io/MMoT/" target="_blank">MMoT</a> is avaliable!</li>
-  <li><strong>[2023-03-22]</strong> 🎖🎖 Our CVPR paper VSP is selected as highlight (top 2.5%)!</li>
-  <li><strong>[2023-02-28]</strong> One paper about video representation learning is accepted to <a href="https://cvpr2023.thecvf.com/" target="_blank">CVPR 2023</a>.</li>
-  <li><strong>[2022-09-15]</strong> One paper about image self-supervised learning is accepted to <a href="https://neurips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a>.</li>
-  <li><strong>[2022-06-30]</strong> One paper about image deblurring is accepted to <a href="https://2022.acmmm.org/" target="_blank">ACM MM 2022</a>.</li>
-  <li><strong>[2022-03-03]</strong> One paper about image generation is accepted to <a href="https://cvpr2022.thecvf.com/" target="_blank">CVPR 2022</a>.</li>
+  <li><strong>[2023-03-22]</strong> 🌟🌟 Our paper <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Modeling_Video_As_Stochastic_Processes_for_Fine-Grained_Video_Representation_Learning_CVPR_2023_paper.pdf">VSP</a> is accepted to <a href="https://cvpr2023.thecvf.com/" target="_blank">CVPR 2023</a> and selected as highlight (top 2.5%)!</li>
 
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
+  <li><strong>[2022-09-15]</strong> One paper about image self-supervised learning is accepted to <a href="https://neurips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a>.</li>
+  <li><strong>[2022-06-30]</strong> One paper about image deblurring is accepted to <a href="https://2022.acmmm.org/" target="_blank">ACM MM 2022</a>.</li>
+  <li><strong>[2022-03-03]</strong> One paper about image generation is accepted to <a href="https://cvpr2022.thecvf.com/" target="_blank">CVPR 2022</a>.</li>
   <li><strong>[2022-03-01]</strong> I finished my rotation and joint JD Explore Academy, as a research scientist.</li>
   <li><strong>[2021-08-05]</strong> I joint JD.com Inc., as a <a href="https://campus.jd.com/web/static/forward?to=jd-project-dmt&t=3" target="_blank">Doctoral Management Trainee</a>.</li>
   <li><strong>[2021-05-22]</strong> 🎉🎉 I successfully defended my PhD thesis!</li>

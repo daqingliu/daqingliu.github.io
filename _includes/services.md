@@ -15,6 +15,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://mc.manuscriptcentral.com/tpami-cs" target="_blank"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
   <li><a href="https://mc.manuscriptcentral.com/tip-ieee" target="_blank"><autocolor>IEEE Transactions on Image Processing (TIP)</autocolor></a></li>
   <li><a href="https://mc.manuscriptcentral.com/tmm-ieee" target="_blank"><autocolor>IEEE Transactions on Multimedia (TMM)</autocolor></a></li>
   <li><a href="https://mc.manuscriptcentral.com/tcsvt" target="_blank"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>

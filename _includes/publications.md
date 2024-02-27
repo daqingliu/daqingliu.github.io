@@ -9,7 +9,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
 <ol class="bibliography">
 
 <!-- d ----------------------- -->
-<h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> arXiv </h3>
+<!-- <h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> arXiv </h3> -->
 
 <!-- d  ----------------------- 
 <li>
@@ -44,26 +44,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
 -->
 
 <!-- d ----------------------- -->
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2303.01032" target="_blank">MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis</a></div>
-    <div class="author">Jianbin Zheng<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu<span class="superscript">*</span></b>, Chaoyue Wang, Minghui Hu, Zuopeng Yang, Changxing Ding, Dacheng Tao</div>
-    <div class="periodical"><em>arXiv preprint, arXiv:2305.05992.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2305.05992" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="https://arxiv.org/pdf/2305.05992" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://jabir-zheng.github.io/MMoT/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/jabir-zheng/MMoT-Transformer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <i>&nbsp;&nbsp;Journal Version</i>
-      </div>
-  </div>
-</div>
-</li>
-
-<!-- d ----------------------- -->
-<li>
+<!-- <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -78,10 +59,10 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
     </div>
   </div>
 </div>
-</li>
+</li> -->
 
 <!-- d ----------------------- -->
-<li>
+<!-- <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -95,10 +76,10 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
     </div>
   </div>
 </div>
-</li>
+</li> -->
 
 <!-- d ----------------------- -->
-<li>
+<!-- <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">arXiv</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -113,7 +94,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
     </div>
   </div>
 </div>
-</li>
+</li> -->
 
 <!-- d ----------------------- -->
 <!-- <li>
@@ -132,6 +113,46 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
 </div>
 </li> -->
 
+
+<!-- d ----------------------- -->
+<h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> 2024 </h3>
+
+<!-- d ----------------------- -->
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">IJCV</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2305.05992" target="_blank">MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis</a></div>
+    <div class="author">Jianbin Zheng<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu<span class="superscript">*</span></b>, Chaoyue Wang, Minghui Hu, Zuopeng Yang, Changxing Ding, Dacheng Tao</div>
+    <div class="periodical"><em>International Journal of Computer Vision (IJCV).</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2305.05992" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://arxiv.org/pdf/2305.05992" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://jabir-zheng.github.io/MMoT/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/jabir-zheng/MMoT-Transformer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <strong><i style="color:#e74d3c">&nbsp;&nbsp;Impact Factor: 19.5</i></strong>
+      </div>
+  </div>
+</div>
+</li>
+
+<!-- d ----------------------- -->
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">AAAI</abbr> </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2309.09531" target="_blank">Decomposing Semantic Shifts for Composed Image Retrieval</a></div>
+    <div class="author">Xingyu Yang<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu</b>, Heng Zhang, Yong Luo, Chaoyue Wang, Jing Zhang</div>
+    <div class="periodical"><em>AAAI Association for the Advancement of Artificial Intelligence (AAAI).</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2309.09531" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://arxiv.org/pdf/2309.09531" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      </div>
+  </div>
+</div>
+</li>
+
+
 <!-- d ----------------------- -->
 <h3 class="bibliography-year" style="font-size: 1.3rem; padding-bottom:5px; border-bottom: 1px solid #ddd;"> 2023 </h3>
 
@@ -140,7 +161,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">NeurIPS</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2303.01032" target="_blank">Cocktail🍸: Mixing Multi-Modality Controls for Text-Conditional Image Generation</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2306.00964" target="_blank">Cocktail🍸: Mixing Multi-Modality Controls for Text-Conditional Image Generation</a></div>
     <div class="author">Minghui Hu<span class="superscript">#</span>, Jianbin Zheng<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu</b>, Chuanxia Zheng, Chaoyue Wang, Dacheng Tao, Tat-Jen Cham</div>
   <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.</em></div>
     <div class="links">
@@ -158,13 +179,14 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;"> <abbr class="badge" style="width:40px; align:middle">ICCV</abbr> </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Exploring Temporal Concurrency for Video-Language Representation Learning</a></div>
-    <div class="author">Heng Zhang<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu</b>, Bing Su, Dacheng Tao</div>
+    <div class="title"><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Exploring_Temporal_Concurrency_for_Video-Language_Representation_Learning_ICCV_2023_paper.html">Exploring Temporal Concurrency for Video-Language Representation Learning</a></div>
+    <div class="author">Heng Zhang<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu</b>, Zezhong Lv, Bing Su, Dacheng Tao</div>
     <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Coming soon</a>
-      <!-- <a href="" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <!-- <strong><i style="color:#e74d3c">&nbsp;&nbsp;Highlight, Accept Rate: 2.5%</i></strong> -->
+      <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Exploring_Temporal_Concurrency_for_Video-Language_Representation_Learning_ICCV_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://openaccess.thecvf.com/content/ICCV2023/supplemental/Zhang_Exploring_Temporal_Concurrency_ICCV_2023_supplemental.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supp</a>
+      <a href="https:
+//github.com/hengRUC/TCP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -182,7 +204,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
       <a href="https://arxiv.org/abs/2206.06619" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://arxiv.org/pdf/2206.06619" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/djiajunustc/TransVG" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <strong><i style="color:#e74d3c">&nbsp;&nbsp;Impact Factor: 24.314</i></strong>
+      <strong><i style="color:#e74d3c">&nbsp;&nbsp;Impact Factor: 23.6</i></strong>
     </div>
   </div>
 </div>
@@ -291,7 +313,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
       <a href="https://arxiv.org/abs/1906.02365" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://arxiv.org/pdf/1906.02365" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/daqingliu/CAVP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <strong><i style="color:#e74d3c">&nbsp;&nbsp;Impact Factor: 24.314</i></strong>
+      <strong><i style="color:#e74d3c">&nbsp;&nbsp;Impact Factor: 23.6</i></strong>
     </div>
   </div>
 </div>
@@ -308,7 +330,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
     <div class="links">
       <a href="https://arxiv.org/abs/1906.01784" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://arxiv.org/pdf/1906.01784" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#e74d3c">&nbsp;&nbsp;Impact Factor: 24.314</i></strong>
+      <strong><i style="color:#e74d3c">&nbsp;&nbsp;Impact Factor: 23.6</i></strong>
     </div>
   </div>
 </div>
