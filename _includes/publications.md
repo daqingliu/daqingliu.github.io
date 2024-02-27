@@ -124,7 +124,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2305.05992" target="_blank">MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis</a></div>
     <div class="author">Jianbin Zheng<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu<span class="superscript">*</span></b>, Chaoyue Wang, Minghui Hu, Zuopeng Yang, Changxing Ding, Dacheng Tao</div>
-    <div class="periodical"><em>International Journal of Computer Vision (IJCV).</em></div>
+    <div class="periodical"><em>International Journal of Computer Vision.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2305.05992" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://arxiv.org/pdf/2305.05992" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -143,7 +143,7 @@ I marked my name in <b style="color:#a82e26">Red</b> if I am the first or corres
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2309.09531" target="_blank">Decomposing Semantic Shifts for Composed Image Retrieval</a></div>
     <div class="author">Xingyu Yang<span class="superscript">#</span>, <b style="color:#a82e26">Daqing Liu</b>, Heng Zhang, Yong Luo, Chaoyue Wang, Jing Zhang</div>
-    <div class="periodical"><em>AAAI Association for the Advancement of Artificial Intelligence (AAAI).</em></div>
+    <div class="periodical"><em>AAAI Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2309.09531" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://arxiv.org/pdf/2309.09531" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
