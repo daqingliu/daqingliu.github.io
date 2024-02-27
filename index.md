@@ -43,8 +43,8 @@ From May 2018 to May 2019, I was a visiting student at Nanyang Technological Uni
 ## News
 
 <ul>
-  <li><strong>[2023-09-22]</strong> 🌟🌟 Our paper <a href="https://jabir-zheng.github.io/MMoT/" target="_blank">MMoT</a> is accepted to <a href="https://link.springer.com/journal/11263" target="_blank">IJCV</a>!</li>
-  <li><strong>[2023-09-22]</strong> One paper about multimodal retrieval is accepted to <a href="https://aaai.org/aaai-conference/" target="_blank">AAAI 2024</a>.</li>
+  <li><strong>[2024-02-27]</strong> 🌟🌟 Our paper <a href="https://jabir-zheng.github.io/MMoT/" target="_blank">MMoT</a> is accepted to <a href="https://link.springer.com/journal/11263" target="_blank">IJCV</a>!</li>
+  <li><strong>[2023-12-09]</strong> One paper about multimodal retrieval is accepted to <a href="https://aaai.org/aaai-conference/" target="_blank">AAAI 2024</a>.</li>
   <li><strong>[2023-09-22]</strong> Our paper <a href="https://mhh0318.github.io/cocktail/" target="_blank">Cocktail🍸</a> is accepted to <a href="https://nips.cc/" target="_blank">NeurIPS 2023</a>.</li>
   <li><strong>[2023-07-14]</strong> One paper about cross-modal retrieval is accepted to <a href="https://iccv2023.thecvf.com/" target="_blank">ICCV 2023</a>.</li>
   <li><strong>[2023-07-06]</strong> 🌟🌟 One paper about visual grounding is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank">IEEE TPAMI</a>!</li>
